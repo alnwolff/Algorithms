@@ -1,8 +1,8 @@
-#Algorithm Training#
+# Algorithm Training
 
-###Trainings from [Code Wars](https://www.codewars.com/users/Alan%20Sanchez)###
+### Trainings from [Code Wars](https://www.codewars.com/users/Alan%20Sanchez)
 
-####This is the repository where I save my trainings and improve my problem-solving skills####
+#### This is the repository where I save my trainings and improve my problem-solving skills
 
 **You will find at least two solutions for each problem**
 - Solution
