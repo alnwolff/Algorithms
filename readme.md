@@ -8,10 +8,10 @@
 - Solution
 - Better Solution
 
-**Solution**
+**Solution** <br />
 This is the solution I gave to the problem first. The one I crafted from scratch and sometimes it might not be the most optimal solution.
 
-**Better Solution**
+**Better Solution** <br />
 This is my conclusion after further understanding of the problem and perhaps checking it with peers and different ways to solve the algorithms.
 
 
